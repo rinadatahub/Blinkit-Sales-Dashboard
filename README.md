@@ -42,7 +42,7 @@ c. KPI cards
    Analyzed the visuals to identify trends, top-performing products, and business opportunities.
 
 ## Dashboard Interaction 
-<a herg="https://github.com/rinadatahub/Blinkit-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20192825.png">Dashbord </a>
+<a herg="https://github.com/rinadatahub/Blinkit-Sales-Dashboard/blob/main/Screenshot%202026-03-18%20192825.png"></a>
 
 ## process 
 Collected and cleaned Blinkit sales data using Power Query
