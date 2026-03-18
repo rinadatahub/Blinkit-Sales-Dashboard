@@ -22,10 +22,9 @@ Power BI dashboard analyzing Blinkit sales data with insights on product perform
 ## process 
 Data Collection
 Collected Blinkit sales dataset containing information about products, orders, outlets, and sales.
-
-1. Data Cleaning
+1) Data Cleaning
    Cleaned the dataset using Power Query by handling missing values, removing duplicates, and correcting data types.
-2. Data Transformation
+2) Data Transformation
    Transformed raw data into a structured format and created necessary columns for better analysis.
 3) Data Modeling
    Built relationships between tables and designed a data model to ensure accurate analysis.
